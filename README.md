@@ -99,7 +99,6 @@ bid-app/
 ## Status
 
 > Active development — tested with real users on both iOS and Android.
-> Features including user authentication and backend integration planned for next version.
 
 ---
 
